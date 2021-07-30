@@ -1,9 +1,11 @@
 一些我汉化的软件（的配置）
 
-# [NexusFont](http://www.xiles.net/) 2.6.2
-我专门写了篇文介绍它，请至 [推荐字体预览和预载软件NexusFont，以及对该软件汉化和美化 | 魔茶](https://magictea.cc/topic/1253/)
+# [NexusFont](https://www.xiles.app/) 2.6.2
+我专门写了篇文介绍它，请至 [推荐字体预览和预载软件NexusFont，以及对该软件汉化和美化 | 魔茶](https://magictea.cc/topic/1253/)，这个汉化文件除了更新没翻译的，还修正了不少错误。
 
 给作者也发了邮件，不过看作者博客最后更新于2015，也许退网很久了，不清楚他是否收到。
+
+- 2021-7-30补充：目前看应该也适用于2.7.0，官网附带的汉化文件2.5.5起就没更新了。
 
 # [mpv.net](https://github.com/stax76/mpv.net) 5.4.4.0
 这是个加上右键菜单的mpv播放器。替代`input.conf`后，右键菜单就可以中文化了。
