@@ -1,5 +1,10 @@
 一些我汉化的软件（的配置）
 
+# [IObit Unlocker](https://www.iobit.com/en/iobit-unlocker.php) 1.3.0
+简中语言文件居然有错字和漏译，索性对照英文语言文件按上下文重新翻了下。`版权`项其实也翻译了，但程序忽略了译文。
+
+放到`…\IObit Unlocker\Language`文件夹下替换同名文件即可。
+
 # [NexusFont](https://www.xiles.app/) 2.6.2
 我专门写了篇文介绍它，请至 [推荐字体预览和预载软件NexusFont，以及对该软件汉化和美化 | 魔茶](https://magictea.cc/topic/1253/)，这个汉化文件除了更新没翻译的，还修正了不少错误。
 
